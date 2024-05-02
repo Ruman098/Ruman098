@@ -22,15 +22,11 @@ That's why I like to make things that make a difference.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Ruman098" target="_blank"></a>
 &nbsp;
-<a href="https://leetcode.com" target="_blank"></a>
+<a href="https://codeforces.com/profile/Ruman007" target="-blank"><img align="center" src="https://assets.codeforces.com/users/kguseva/comments/cf.png" alt="Ruman007" height="30" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"></a>
+<a href="https://leetcode.com" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/LeetCode_Logo_2.png?20190719232544" alt="Ruman007" height="30" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"></a>
-&nbsp;
-<a href="https://medium.com/@aswinbarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/Ruman007" target="_blank"><img align="center" src="https://takap.dev/static/3a74499fd718b89168ab89cd6d358ad2/e9d78/atcoder.webp" alt="Ruman007" height="30" /></a>
 &nbsp;
 
 ---
@@ -57,6 +53,8 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
 </p>
 
+---
+
 ### 🧰 Frameworks and libraries
 
 <p>
@@ -67,3 +65,17 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 </p>
+
+---
+
+## 📊 Stats
+
+<details>
+  <summary>&nbsp;&nbsp;<b>😺 My Github stats and 😸 Most Used Languages</summary>
+  <br/>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ruman098&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruman098&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+  <br/>
+</details>
+
+---
