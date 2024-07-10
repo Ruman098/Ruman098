@@ -14,6 +14,7 @@ That's why I like to make things that make a difference.
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on **Leetcode**
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+  - Machine Learning from **Kaggle**
 - 📬 How to reach me: [nsruman999@gmail.com](nsruman999@gmail.com)
 - 💬 Ask me about anything, I am happy to help
 - 💪 This is where I write, code and solve problems:
