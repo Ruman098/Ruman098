@@ -57,7 +57,7 @@ That's why I like to make things that make a difference.
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Arduino" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg"></a>
+    <a href="#"><img alt="Arduino" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height="30"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
