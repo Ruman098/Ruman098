@@ -63,7 +63,7 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="Matplotlib" src="https://images.app.goo.gl/Denneu3NcpeXRMVh9" height="30"></a>
+    <a href="#"><img alt="Matplotlib" src="https://images.app.goo.gl/tawAF5RFgDNvYYig6" height="30"></a>
     <a href="#"><img alt="Arduino" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height="30"></a>
     <a href="#"><img alt="Arduino" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Dark.svg" height="30"></a>
 </p>
@@ -75,8 +75,8 @@ That's why I like to make things that make a difference.
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Ruman098's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ruman098&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="Ruman098's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruman098&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/Ruman098/github-readme-stats" title="Go to Source"><img alt="Ruman098's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ruman098&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/Ruman098/github-readme-stats" title="Go to Source"><img alt="Ruman098's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruman098&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
 </details>
 
