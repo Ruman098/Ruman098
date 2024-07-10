@@ -2,16 +2,15 @@
 
 ## Glad to see you here!
 
-I am a student at. I love programming, reading, writing and speaking.
+I am a student at **Chittagong University of Engineering and Technologies**. I love programming, reading, writing and speaking.
 
-As an CSE student, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As a CSE student, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Computer Science and Engineering Student**
-- 🔭 I’m currently working on *WEBDEV*
 - 🌱 I'm currently learning:
   - Data Structures and Algorithms on **Leetcode**
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
@@ -44,10 +43,10 @@ That's why I like to make things that make a difference.
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 <!--     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a> -->
@@ -58,7 +57,7 @@ That's why I like to make things that make a difference.
 ### 🧰 Frameworks and libraries
 
 <p>
-<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
+<a href="#"><img alt="Arduino" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmatplotlib.org%2Fstable%2Fgallery%2Fmisc%2Flogos2.html&psig=AOvVaw3y-M2RgySNhNtz-NpLQ1J8&ust=1720734106924000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCq1aG4nYcDFQAAAAAdAAAAABAJ"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
